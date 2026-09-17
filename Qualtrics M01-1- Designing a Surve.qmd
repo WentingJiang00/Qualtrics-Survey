@@ -1,0 +1,62 @@
+---
+title: "Qualtrics M01-1: Designing a Survey"
+author: "Wenting Jiang"
+date: Sep,17 2026
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+---
+
+## Executive Summary
+
+This report documents the completion of **Step 7** for *Qualtrics M01-1: Designing a Survey*. It includes proof of sharing the draft survey with Professor Jae Jung (`jmjung`), initial survey structure screenshots (beginning, middle, and ending), and project navigation details.
+
+## Qualtrics Survey Proofs
+
+### Proof of Sharing with Instructor
+
+The draft survey `Jiang, Wenting - Survey of Educational Needs of MR Professionals` has been shared with Professor Jae Jung in Qualtrics.
+
+![Proof of Sharing Survey with Jae Jung](shared.png){#fig-share fig-align="center"}
+
+### Survey Draft Structure
+
+Below are the screenshots displaying the beginning, middle, and ending sections of the survey draft inside Qualtrics.
+
+::: panel-tabset
+### Beginning Section
+
+![Survey Beginning: Title and Intro](beginning.png){#fig-begin fig-align="center"}
+
+### Middle Section
+
+![Survey Middle: Questions Framework](middle.png){#fig-middle fig-align="center"}
+
+### Ending Section
+
+![Survey Ending: Conclusion and Demographics](ending.png){#fig-end fig-align="center"}
+:::
+
+------------------------------------------------------------------------
+
+## Submission Checklist Summary
+
+| Task / Requirement | Status | Description |
+|:---------------------|:--------------------------:|:---------------------|
+| Survey Naming | Completed | `Jiang, Wenting - Survey of Educational Needs of MR Professionals` |
+| Shared with Instructor | Completed | Shared with `jmjung` on Qualtrics |
+| Survey Content Draft | Completed | Exported Word questionnaire transferred to Qualtrics |
+| Self-contained HTML | Completed | YAML option `embed-resources: true` enabled |
+
+------------------------------------------------------------------------
+
+## Appendix
+
+-   **GitHub Repository:** < >
+-   **GitHub Pages Published Site:** <>
